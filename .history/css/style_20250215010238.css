@@ -1,0 +1,15 @@
+:root{
+    --dark-color:hsl(252 , 30% , 17%);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    border: none;
+}
+body{
+    font-family: "Poppins", serif;
+    color: var(--dark-color);
+}
